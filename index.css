@@ -1,0 +1,104 @@
+body {
+    background-image: url(./images/gallary.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+ }
+
+ .cheetah {
+    background-image: url(./images/cheetah.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: -px;
+ }
+
+ .leopard {
+    background-image: url(./images/leopard.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 600px;
+
+ }
+
+ .jaguar {
+    background-image: url(./images/jaguar.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    top: 360px;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -660px;
+
+ }
+
+ .tiger {
+    background-image: url(./images/tiger.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 600px;
+    bottom: -645px;
+
+ }
+
+ .btn1 {
+    width: 400px;
+    height: 40px;
+    position: absolute;
+    bottom: -266px;
+ }
+ .btn2 {
+    width: 400px;
+    height: 40px;
+    position: absolute;
+    bottom: -269px;
+    left: 600px;
+ }
+ .btn3 {
+    width: 400px;
+    height: 40px;
+    position: absolute;
+    bottom: -629px;
+ 
+ }
+ .btn4 {
+    width: 400px;
+    height: 40px;
+    position: absolute;
+    bottom: -629px;
+    left: 600px;
+ }
+ .cheat{
+    position:absolute;
+    bottom: 300px;
+    top: -3px;
+    left: -3px;
+ }
+ .leo{
+    position: absolute;
+    bottom: 300px;
+    top: -3px;
+    left: 597px;
+ }
+ .jag{
+    position: absolute;
+    bottom: 300px;
+    top: 357px;
+    left: -3px;
+    
+ }
+ .tig{
+    position: absolute;
+    bottom: 300px;
+    top: 340px;
+    left: 598px;
+ }
